@@ -38,12 +38,6 @@ public class Elofordulas {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
-		 for (Map.Entry<Integer, Integer> val : hm.entrySet()) {
-	         System.out.println("A(z) " + val.getKey() + " "
-	          
-	                             + val.getValue() + " alkalommal szerepel");
-	     }
 		 
 		 for (int i=0; i < getGyakoriSzam(); i++) {
 			 int max = 0;

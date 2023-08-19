@@ -55,7 +55,6 @@ public class Sorsolas {
 				}
 			}
 		}
-		System.out.println(kihuzottSzamok);
 	}
 
 }
